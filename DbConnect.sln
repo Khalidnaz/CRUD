@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnect", "VideoGameReview\DbConnect.csproj", "{3DA3DD23-28B2-4189-9BDE-B319183788BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectTest", "DbConnectTest\DbConnectTest.csproj", "{1A8DC5A0-3725-4373-AE8C-745FD1939231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameReview", "GameReview\GameReview.csproj", "{7A765B6C-97B6-440F-98AF-5E37EE08C560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA3DD23-28B2-4189-9BDE-B319183788BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA3DD23-28B2-4189-9BDE-B319183788BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA3DD23-28B2-4189-9BDE-B319183788BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA3DD23-28B2-4189-9BDE-B319183788BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8DC5A0-3725-4373-AE8C-745FD1939231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8DC5A0-3725-4373-AE8C-745FD1939231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8DC5A0-3725-4373-AE8C-745FD1939231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8DC5A0-3725-4373-AE8C-745FD1939231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A765B6C-97B6-440F-98AF-5E37EE08C560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A765B6C-97B6-440F-98AF-5E37EE08C560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A765B6C-97B6-440F-98AF-5E37EE08C560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A765B6C-97B6-440F-98AF-5E37EE08C560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
